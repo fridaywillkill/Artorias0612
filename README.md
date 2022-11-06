@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Artorias0612
-- 👀 I’m Learning Python
+- 👀 I’m Learning Python & Dart
 - 🌱 I love Programming
-- 💞️ I love Game Like Dark Souls Series
+- 💞️ I love Game Love Hidetaka miyazaki games
 - 📫 How to Find Me ...
 
 <!---
