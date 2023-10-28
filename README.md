@@ -1,1 +1,1 @@
-<h2 style="color: 58a6ff"> - @fridaywillkill </h2>
+<h1 style="color: 58a6ff"> - @fridaywillkill </h1>
